@@ -1,4 +1,6 @@
-## Hi there 👋
+## Compose and Dragons
+
+![](imgs/cnd.png)
 
 <!--
 
