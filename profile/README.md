@@ -9,6 +9,7 @@
 - `demo-dm-agent-mcp-gateway`: chatbot with tools and chat models and conversational memory [function calling / parallel calls false] + mcp gateway and duckduckgo mcp server
 - `demo-dungeon-master-mcp-gateway`: same as `demo-dm-agent-mcp-gateway` but with "code gardening"
 - `demo-dungeon-master-mcp-gateway-remote`: tools, chat, mcp-gateway + remote mcp server
+- `dungeon-mcp-server`: MCP server to handle the dungeon map, moves, ... using the mcp-gateway
 
 
 <!--
